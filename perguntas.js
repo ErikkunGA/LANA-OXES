@@ -1,30 +1,44 @@
 criaCartao(
-    'iaovndsuivfdas',
-    'Tetas?',
-    'Tetas?'
+    'Cinema',
+    'say my name',
+    'Heisenberg'
+)
+
+criaCartao(
+    'Musica',
+    'Aegundo o cantor Crazy Frog em sua. canção, que ele quer?',
+    'RINGUIRIQUI TIN TIN RINGUIRIQUI TINTINTIN RINGUIRIQUI TIN TIM RINGUIRIQUE BOOOO BOOOOOO'
+)
+
+criaCartao(
+    'Pokemon',
+    'Typhlosion é? ',
+    '○»¤★®≈ੴ→↑○•○ƒ×ਏਓ◊˛»«˜ˇˆˉ≥▪∞♪♫☼♀♂♠♣♥♦¤←↑→↓↔↕≠√ಌ♡ஜ♥ღՁდრ★☆웃☞☜εïзэїєੴツシ㋡☠●๋•♬♫♪♩♭◇◈૪※зﻼڿ♤♠♧♣◊♦㌷ჯ×۝◯◎タ¥ψ†๑≈'
 )
 criaCartao(
-    'Chainsaw man',
-    'qual o nome do demonio que denji enfrenta depois do demonio zumbi',
-    'Demonio do musculo'
+    'ANGU!',
+    'ANGUUUUUU',
+    'ANGUUUUU! ANGUUUUUUU! ANGUUUUU'
 )
 criaCartao(
-    'PALMEIRAS',
-    'Tem mundial?',
-    'não HAHAHAHAHAHA'
-)
-criaCartao(
-    'matematica',
-    'imagine x é igual a uma geladeira e y sejá uma porta, então se elvarmos x a y multiplicado pela hipotenausa vezes 2 é igual a?',
-    'Uma Banana'
-)
-criaCartao(
-    'musica',
-    'Segundo em sua musica, o que crazy frog quer?',
-    'ablimblimblimblomblomblamblam.'
-)
-criaCartao(
-    'sees',
-    'cuuc',
-    'reer'
+    'bvghkviy',
+    'Este sera o maior e mais impotante discuso que você vera na vida.',
+    'resposta' +
+'⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀' +
+'⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣶⣿⣿⣿⣿⣿⣄⠀⠀⠀⠀⠀' +
+'⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⠿⠟⠛⠻⣿⠆⠀⠀⠀⠀' +
+'⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣆⣀⣀⠀⣿⠂⠀⠀⠀⠀' +
+'⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠻⣿⣿⣿⠅⠛⠋⠈⠀⠀⠀⠀⠀' +
+'⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢼⣿⣿⣿⣃⠠⠀⠀⠀⠀⠀⠀⠀' +
+'⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣟⡿⠃⠀⠀⠀⠀⠀⠀⠀' +
+'⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣛⣛⣫⡄⠀⢸⣦⣀⠀⠀⠀⠀' +
+'⠀⠀⠀⠀⠀⠀⢀⣠⣴⣾⡆⠸⣿⣿⣿⡷⠂⠨⣿⣿⣿⣿⣶⣦⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀' +
+'⠀⠀⠀⠀⣤⣾⣿⣿⣿⣿⡇⢀⣿⡿⠋⠁⢀⡶⠪⣉⢸⣿⣿⣿⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀' +
+'⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⡏⢸⣿⣷⣿⣿⣷⣦⡙⣿⣿⣿⣿⣿⡏⠀⠀' +
+'⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣇⢸⣿⣿⣿⣿⣿⣷⣦⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀' +
+'⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀' +
+'⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀' +
+'⠀⠀⠀⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀' +
+'⠀⠀⠀⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀' +
+'⠀⠀⠀⢹⣿⣵⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀' + 
 )
